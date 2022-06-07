@@ -1,4 +1,4 @@
-package com.example.validation1;
+package com.example.validation1.dto;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Max;
