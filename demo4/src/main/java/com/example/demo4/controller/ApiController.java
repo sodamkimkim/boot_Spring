@@ -27,6 +27,12 @@ public class ApiController {
 		System.out.println(user.getName());
 		return user;
 		
+//		private String name;
+//		private int age;
+////		   @JsonProperty("phone_Number")
+//		private String phoneNumber;
+//		private String address;
+//		private String idNumber;
 	}
 	
 	// 202, 200 -> 응답을 돌려 줄 때 응답 코드를 지정해서 보낼 수 있다.
